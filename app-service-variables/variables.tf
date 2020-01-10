@@ -9,6 +9,6 @@ variable "location" {
 }
 
 variable "app-service-name" {
-  default = "terraform-app-service"
+  default = "terraform-app-service-01"
   description = "The name of the app service"
 }
